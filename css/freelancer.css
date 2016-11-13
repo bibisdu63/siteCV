@@ -545,3 +545,14 @@ section.successAbout {
      background: #2C3E50;
   color: white;
 }
+
+.roundedImage {
+    overflow:hidden;
+    -webkit-border-radius:450px;
+    -moz-border-radius:450px;
+    border-radius:450px;
+    width:450px;
+    height:450px;
+    margin-left: auto;
+    margin-right: auto;
+}
